@@ -1,0 +1,8 @@
+{"timestamp": "2023-08-27 00:38:40", "source_ip": "192.168.0.107", "command": "CONNECTION_REQUEST", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:39:20", "source_ip": "192.168.0.107", "command": "l", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:40:21", "source_ip": "192.168.0.107", "command": "ls", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:40:24", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:40:51", "source_ip": "192.168.0.107", "command": "CONNECTION_REQUEST", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:40:51", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:41:25", "source_ip": "192.168.0.107", "command": "CONNECTION_REQUEST", "response": "", "username": ""}
+{"timestamp": "2023-08-27 00:41:25", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": ""}

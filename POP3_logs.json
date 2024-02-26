@@ -1,0 +1,10 @@
+{"timestamp": "2023-08-26 21:48:23", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:48:24", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:49:31", "source_ip": "192.168.0.107", "command": "ls", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:50:06", "source_ip": "192.168.0.107", "command": "pk", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:50:56", "source_ip": "192.168.0.107", "command": "user1 password1", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:51:13", "source_ip": "192.168.0.107", "command": "<Non-UTF-8 data>", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:51:19", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:59:16", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:59:17", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
+{"timestamp": "2023-08-26 21:59:19", "source_ip": "192.168.0.107", "command": "CONNECTION_LOST", "response": "", "username": "guest"}
